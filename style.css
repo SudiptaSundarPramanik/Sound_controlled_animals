@@ -1,0 +1,34 @@
+#normal_div{
+    background: skyblue;
+    font-size: 50px;
+    color: limegreen;
+}
+#heading{
+    font-family: 'Dancing Script', cursive;
+}
+#how_to_use{
+    font-size: medium;
+    font-family: 'Patua One', cursive;
+    color: navy;
+}
+#voice_output{
+    font-family: 'Roboto Slab', serif;
+}
+#main_div{
+    background: wheat;
+    padding-bottom: 200px;
+    font-size: 17px;
+    color: slateblue;
+}
+img{
+    width: 100px;
+}
+.copy_right_footer{
+    text-align: center;
+    background-color: springgreen;
+    bottom: 0;
+    color: royalblue;
+    position: fixed;
+    width: 100%;
+    font-family: 'Allison', cursive;
+}
